@@ -1,6 +1,13 @@
 # clojure-rest-api
 
-Clojure REST Api
+Clojure REST Api based on (this post)[https://blog.interlinked.org/programming/clojure_rest.html]
+
+## Routes:
+GET /api/v1/todos
+POST /api/v1/todos
+GET /api/v1/todos/:id
+PUT /api/v1/todos/:id
+DELETE /api/v1/todos/:id
 
 ## Prerequisites
 
